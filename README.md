@@ -19,7 +19,6 @@ You can also load a map from a file, check [Grids for testing](https://github.co
 * [SFML](https://www.sfml-dev.org/) - The framework used for rendering
 * [CMake](https://cmake.org/) - Build System
 * [.NET Forms](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=vs-2019) - Used to create the form
-* [conan](https://conan.io/) - Open source package manager/dependency manager
 
 ## Prerequisites
 
@@ -34,16 +33,6 @@ Check my [Qt5 application](https://github.com/ggiap/Pathfinding-Visualizer-Qt5-)
 My preffered way of installing c++ libraries on windows is with vcpkg
 ```
 You can check out the official repo [here](https://github.com/microsoft/vcpkg).
-
-#### Python/pip
-```
-Download and install Python and pip if you don't have them already
-```
-
-#### conan
-```
-pip install conan
-```
 
 #### CMake
 ```
